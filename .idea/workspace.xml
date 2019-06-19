@@ -46,40 +46,41 @@
     <session id="1281416493">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="2522" />
+          <entry key="java" value="3022" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2522" />
+          <entry key="JAVA" value="3022" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="45" />
         </counts>
       </usages-collector>
     </session>
@@ -87,71 +88,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrototypePattern/Resume.java">
+        <entry file="file://$PROJECT_DIR$/src/FacadePattern/CPU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="79">
+              <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrototypePattern/PrototypeDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/FacadePattern/Disk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="196">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TemplatePattern/Game.java">
+        <entry file="file://$PROJECT_DIR$/src/FacadePattern/Memory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="196">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+              <folding>
+                <element signature="e#65#66#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TemplatePattern/LoL.java">
+        <entry file="file://$PROJECT_DIR$/src/FacadePattern/Facade.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-              </folding>
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TemplatePattern/TemplateDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/FacadePattern/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TemplatePattern/HonorOfKings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -214,6 +208,11 @@
         <option value="$PROJECT_DIR$/src/TemplatePattern/LoL.java" />
         <option value="$PROJECT_DIR$/src/TemplatePattern/TemplateDemo.java" />
         <option value="$PROJECT_DIR$/src/TemplatePattern/HonorOfKings.java" />
+        <option value="$PROJECT_DIR$/src/FacadePattern/Facade.java" />
+        <option value="$PROJECT_DIR$/src/FacadePattern/Memory.java" />
+        <option value="$PROJECT_DIR$/src/FacadePattern/Disk.java" />
+        <option value="$PROJECT_DIR$/src/FacadePattern/CPU.java" />
+        <option value="$PROJECT_DIR$/src/FacadePattern/TestDemo.java" />
       </list>
     </option>
   </component>
@@ -234,8 +233,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,7 +251,7 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TemplatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="FacadePattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -270,7 +269,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560260610231" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560950997002" />
     <property name="last_opened_file_path" value="E:/java视屏/ssm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -298,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TemplateDemo.run">
+  <component name="RunManager" selected="JUnit.TestDemo.run">
     <configuration name="FactoryTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
@@ -363,36 +362,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecoratorPattern.*" />
+          <option name="PATTERN" value="FacadePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DecoratorPattern" />
-      <option name="MAIN_CLASS_NAME" value="DecoratorPattern.TestDemo" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="FacadePattern" />
+      <option name="MAIN_CLASS_NAME" value="FacadePattern.TestDemo" />
+      <option name="METHOD_NAME" value="run" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestDemo.test" />
       <item itemvalue="JUnit.ProxyTest.run" />
       <item itemvalue="JUnit.FactoryTest.run" />
       <item itemvalue="JUnit.PrototypeDemo.run" />
       <item itemvalue="JUnit.TemplateDemo.run" />
+      <item itemvalue="JUnit.TestDemo.run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestDemo.run" />
         <item itemvalue="JUnit.TemplateDemo.run" />
         <item itemvalue="JUnit.PrototypeDemo.run" />
         <item itemvalue="JUnit.FactoryTest.run" />
         <item itemvalue="JUnit.ProxyTest.run" />
-        <item itemvalue="JUnit.TestDemo.test" />
       </list>
     </recent_temporary>
   </component>
@@ -420,16 +419,12 @@
       <workItem from="1560170590409" duration="1507000" />
       <workItem from="1560173000259" duration="8000" />
       <workItem from="1560259667313" duration="1229000" />
+      <workItem from="1560432550956" duration="6000" />
+      <workItem from="1560946482731" duration="2607000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestDemo_TestSort - 2019.03.26 at 21h 16m 16s.xml">
-      <configuration name="TestDemo.TestSort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDemo_test - 2019.05.27 at 21h 08m 44s.xml">
-      <configuration name="TestDemo.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestDemo_test - 2019.05.27 at 21h 09m 04s.xml">
       <configuration name="TestDemo.test" configurationId="JUnit" />
     </history-entry>
@@ -454,14 +449,20 @@
     <history-entry file="TemplateDemo_run - 2019.06.11 at 21h 42m 35s.xml">
       <configuration name="TemplateDemo.run" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestDemo_run - 2019.06.19 at 21h 26m 02s.xml">
+      <configuration name="TestDemo.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_run - 2019.06.19 at 21h 29m 03s.xml">
+      <configuration name="TestDemo.run" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15288000" />
+    <option name="totallyTimeSpent" value="17901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29758713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30563003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -778,21 +779,34 @@
     <entry file="file://$PROJECT_DIR$/src/TemplatePattern/TemplateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="19" />
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TemplatePattern/HonorOfKings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="336">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TemplatePattern/LoL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -804,18 +818,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplatePattern/LoL.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.logging/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="766" column="34" selection-start-line="766" selection-start-column="25" selection-end-line="766" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FacadePattern/Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FacadePattern/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FacadePattern/CPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FacadePattern/Disk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FacadePattern/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-          </folding>
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
