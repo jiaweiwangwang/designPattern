@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a55e1e-b3ef-4f39-9d6d-6daede94a90c" name="Default Changelist" comment="" />
+    <list default="true" id="f8a55e1e-b3ef-4f39-9d6d-6daede94a90c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,41 +46,42 @@
     <session id="1281416493">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="3408" />
+          <entry key="java" value="3960" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3408" />
+          <entry key="JAVA" value="3960" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="51" />
+          <entry key="java" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="51" />
+          <entry key="JAVA" value="56" />
         </counts>
       </usages-collector>
     </session>
@@ -86,84 +89,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Meal.java">
+        <entry file="file://$PROJECT_DIR$/src/OberverPattern/ISubject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="196">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/MealBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/OberverPattern/IObserver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OberverPattern/ConcreteSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding>
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#201#212#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SubOneMealBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/OberverPattern/SubscribeOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="224">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SubTwoMealBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Waiter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BuilderPattern/BuilderDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/OberverPattern/OberverDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            <state relative-caret-position="168">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -189,8 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/asd.java" />
-        <option value="$PROJECT_DIR$/src/策略模式/Sort.java" />
         <option value="$PROJECT_DIR$/src/策略模式/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/SimpleFactoryPattern/OperationMul.java" />
         <option value="$PROJECT_DIR$/src/StrategyPattern/SelectionSort.java" />
@@ -237,6 +220,11 @@
         <option value="$PROJECT_DIR$/src/BuilderPattern/SubTwoMealBuilder.java" />
         <option value="$PROJECT_DIR$/src/BuilderPattern/Waiter.java" />
         <option value="$PROJECT_DIR$/src/BuilderPattern/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/OberverPattern/IObserver.java" />
+        <option value="$PROJECT_DIR$/src/OberverPattern/ISubject.java" />
+        <option value="$PROJECT_DIR$/src/OberverPattern/SubscribeOne.java" />
+        <option value="$PROJECT_DIR$/src/OberverPattern/ConcreteSubject.java" />
+        <option value="$PROJECT_DIR$/src/OberverPattern/OberverDemo.java" />
       </list>
     </option>
   </component>
@@ -246,7 +234,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="560" />
     <option name="width" value="715" />
     <option name="height" value="1040" />
@@ -257,7 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,7 +262,7 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BuilderPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="OberverPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +272,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,7 +281,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561039045038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561212789675" />
     <property name="last_opened_file_path" value="E:/java视屏/ssm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -321,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BuilderDemo.run">
+  <component name="RunManager" selected="JUnit.OberverDemo.run">
     <configuration name="BuilderDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
@@ -338,16 +326,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OberverDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryMethodPattern.*" />
+          <option name="PATTERN" value="OberverPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="FactoryMethodPattern" />
-      <option name="MAIN_CLASS_NAME" value="FactoryMethodPattern.FactoryTest" />
+      <option name="PACKAGE_NAME" value="OberverPattern" />
+      <option name="MAIN_CLASS_NAME" value="OberverPattern.OberverDemo" />
       <option name="METHOD_NAME" value="run" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -403,19 +391,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FactoryTest.run" />
       <item itemvalue="JUnit.PrototypeDemo.run" />
       <item itemvalue="JUnit.TemplateDemo.run" />
       <item itemvalue="JUnit.TestDemo.run" />
       <item itemvalue="JUnit.BuilderDemo.run" />
+      <item itemvalue="JUnit.OberverDemo.run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OberverDemo.run" />
         <item itemvalue="JUnit.BuilderDemo.run" />
         <item itemvalue="JUnit.TestDemo.run" />
         <item itemvalue="JUnit.TemplateDemo.run" />
         <item itemvalue="JUnit.PrototypeDemo.run" />
-        <item itemvalue="JUnit.FactoryTest.run" />
       </list>
     </recent_temporary>
   </component>
@@ -445,17 +433,13 @@
       <workItem from="1560259667313" duration="1229000" />
       <workItem from="1560432550956" duration="6000" />
       <workItem from="1560946482731" duration="2607000" />
-      <workItem from="1561038021465" duration="950000" />
+      <workItem from="1561038021465" duration="1776000" />
+      <workItem from="1561194393141" duration="17000" />
+      <workItem from="1561211230255" duration="1556000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestDemo_test - 2019.05.27 at 21h 09m 04s.xml">
-      <configuration name="TestDemo.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDemo_test - 2019.05.27 at 21h 09m 50s.xml">
-      <configuration name="TestDemo.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProxyTest_run - 2019.05.28 at 21h 19m 14s.xml">
       <configuration name="ProxyTest.run" configurationId="JUnit" />
     </history-entry>
@@ -480,15 +464,21 @@
     <history-entry file="TestDemo_run - 2019.06.19 at 21h 29m 03s.xml">
       <configuration name="TestDemo.run" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BuilderDemo_run - 2019.06.20 at 21h 56m 22s.xml">
+      <configuration name="BuilderDemo.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuilderDemo_run - 2019.06.20 at 21h 57m 00s.xml">
+      <configuration name="BuilderDemo.run" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18851000" />
+    <option name="totallyTimeSpent" value="21250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30965146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31769437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -525,41 +515,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryPattern/OperationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryPattern/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryPattern/OperationMul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleFactoryPattern/OperationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/designPattern.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -799,12 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,10 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="e#68#69#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,6 +785,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/BuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Waiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SubTwoMealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SubOneMealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Meal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -856,58 +850,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/MealBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/OberverPattern/IObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OberverPattern/ISubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
           <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SubOneMealBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/OberverPattern/SubscribeOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="224">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/SubTwoMealBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/OberverPattern/ConcreteSubject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="504">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#212#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/Waiter.java">
+    <entry file="file://$PROJECT_DIR$/src/OberverPattern/OberverDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuilderPattern/BuilderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        <state relative-caret-position="168">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
