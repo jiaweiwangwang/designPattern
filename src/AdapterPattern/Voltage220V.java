@@ -1,7 +1,10 @@
 package AdapterPattern;
 
-public class Voltage220V {
-    public void output220v(){
-        System.out.println("输出220v电压");
+/**
+ * 旧接口实现类
+ */
+public class Voltage220V implements VoltageOutput220Plugin{
+    public void output(){
+        System.out.println("220v电压");
     }
 }

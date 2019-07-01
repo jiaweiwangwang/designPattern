@@ -1,5 +1,8 @@
 package AdapterPattern;
 
-public interface VoltageOutputPlugin {
+/**
+ * 旧的接口
+ */
+public interface VoltageOutput220Plugin {
     void output();
 }
