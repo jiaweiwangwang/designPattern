@@ -1,5 +1,5 @@
 package AdapterPattern;
 
 public interface VoltageFive {
-    void outputFiveV();
+    int outputFiveV();
 }

@@ -3,10 +3,14 @@ package AdapterPattern;
 public class VoltageAdapter implements VoltageFive {
     private Voltage220V voltage220V;
     public VoltageAdapter(){
-        new Voltage220V();
+        voltage220V = new Voltage220V();
     }
     @Override
-    public void outputFiveV() {
-        System.out.println("源电压是220v,已经转换成5.1v电压");
+    public int outputFiveV() {
+        System.out.println("电压的适配器");
+        int input = voltage220V.output220v();
+        int output = input/44;
+        System.out.println("输入电压为："+input+";输出电压为："+output);
+        return output;
     }
 }
