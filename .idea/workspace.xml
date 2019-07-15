@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a55e1e-b3ef-4f39-9d6d-6daede94a90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsePattern/Handler.java" afterDir="false" />
+    <list default="true" id="2acd77a7-cb86-4742-9ee8-98534c3524a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,132 +11,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="560437310">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="68" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="68" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1281416493">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="28" />
-          <entry key="project.open.time.1" value="7" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.26" value="2" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="5" />
-          <entry key="project.opened" value="29" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="8" />
-          <entry key="java" value="7519" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="7519" />
-          <entry key="PLAIN_TEXT" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="133" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="133" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Handler.java">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Mediator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="132">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#181#190#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/SquadLeader.java">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="168">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Counselor.java">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Station.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Dean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="99">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/China.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Pakistan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,83 +101,27 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>F:\SimpleFactoryPattern\src</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/IFactory.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/IAirCondition.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/ITelevision.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/GreeFactory.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/MideaFactory.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/GreeTelevision.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/GreeAirCondition.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/MideaTelevision.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/MideaAirCondition.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactoryPattern/AbstracTFactoryDemo.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/GoShoppingState.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/BrowseGoogsState.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/PlaceOrderState.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/DeliverGoodsState.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/TransportGoodsState.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/ReceiveGoodsState.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/Context.java" />
-        <option value="$PROJECT_DIR$/src/StatePattern/StateDemo.java" />
-        <option value="$PROJECT_DIR$/src/MementoPattern/Memento.java" />
-        <option value="$PROJECT_DIR$/src/MementoPattern/Caretacker.java" />
-        <option value="$PROJECT_DIR$/src/MementoPattern/GamePlayer.java" />
-        <option value="$PROJECT_DIR$/src/MementoPattern/MementoDemo.java" />
-        <option value="$PROJECT_DIR$/src/CompositePattern/Component.java" />
-        <option value="$PROJECT_DIR$/src/CompositePattern/Composite.java" />
-        <option value="$PROJECT_DIR$/src/CompositePattern/CompositeDemo.java" />
-        <option value="$PROJECT_DIR$/src/CompositePattern/Leaf.java" />
-        <option value="$PROJECT_DIR$/src/AdapterPattern/VoltageFive.java" />
-        <option value="$PROJECT_DIR$/src/AdapterPattern/AdapterDemo.java" />
-        <option value="$PROJECT_DIR$/src/AdapterPattern/Voltage220V.java" />
-        <option value="$PROJECT_DIR$/src/AdapterPattern/VoltageAdapter.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/Car.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/Color.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/TypeM.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/Automobile.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/TypeN.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/TypeP.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/Red.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/Yellow.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/Blue.java" />
-        <option value="$PROJECT_DIR$/src/BridgePattern/BridgeDemo.java" />
-        <option value="$PROJECT_DIR$/src/CommandPattern/MakeChickenWingsCommand.java" />
-        <option value="$PROJECT_DIR$/src/CommandPattern/MakeBurgerCommand.java" />
-        <option value="$PROJECT_DIR$/src/CommandPattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/CommandPattern/Kitchen.java" />
-        <option value="$PROJECT_DIR$/src/CommandPattern/Waiter.java" />
-        <option value="$PROJECT_DIR$/src/CommandPattern/Command.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsePattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsePattern/Handler.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsePattern/SquadLeader.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsePattern/Counselor.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsePattern/Dean.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/Station.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/Pakistan.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/China.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="560" />
     <option name="width" value="715" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -252,7 +145,7 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,26 +154,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562942327897" />
-    <property name="last_opened_file_path" value="E:/java视屏/ssm" />
+    <property name="last_opened_file_path" value="D:/Git/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="FactoryMethodPattern" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\designPattern\src\FactoryMethodPattern" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,25 +174,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Client.run (1)">
-    <configuration name="AdapterDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdapterPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="AdapterPattern" />
-      <option name="MAIN_CLASS_NAME" value="AdapterPattern.AdapterDemo" />
-      <option name="METHOD_NAME" value="run" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Client.run">
     <configuration name="BridgeDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
+      <module name="designPattern1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BridgeDemo" />
       <option name="METHOD_NAME" value="run" />
@@ -321,62 +185,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Client" />
-      <option name="METHOD_NAME" value="run" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="Client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MediatorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MediatorPattern" />
+      <option name="MAIN_CLASS_NAME" value="MediatorPattern.Client" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Client.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
+      <module name="designPattern1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CommandPattern.*" />
+          <option name="PATTERN" value="MediatorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CommandPattern" />
-      <option name="MAIN_CLASS_NAME" value="CommandPattern.Client" />
+      <option name="PACKAGE_NAME" value="MediatorPattern" />
+      <option name="MAIN_CLASS_NAME" value="MediatorPattern.Client" />
       <option name="METHOD_NAME" value="run" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FacadePattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FacadePattern.TestDemo" />
-      <option name="METHOD_NAME" value="run" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.AdapterDemo.run" />
-      <item itemvalue="JUnit.TestDemo.run" />
-      <item itemvalue="JUnit.BridgeDemo.run" />
-      <item itemvalue="JUnit.Client.run" />
-      <item itemvalue="JUnit.Client.run (1)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Client.run (1)" />
         <item itemvalue="JUnit.Client.run" />
+        <item itemvalue="JUnit.Client" />
         <item itemvalue="JUnit.BridgeDemo.run" />
-        <item itemvalue="JUnit.TestDemo.run" />
-        <item itemvalue="JUnit.AdapterDemo.run" />
       </list>
     </recent_temporary>
   </component>
@@ -385,551 +229,175 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8a55e1e-b3ef-4f39-9d6d-6daede94a90c" name="Default Changelist" comment="" />
-      <created>1553523035706</created>
+      <changelist id="2acd77a7-cb86-4742-9ee8-98534c3524a4" name="Default Changelist" comment="" />
+      <created>1563197151939</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553523035706</updated>
-      <workItem from="1553523038705" duration="277000" />
-      <workItem from="1553523336580" duration="124000" />
-      <workItem from="1553524132055" duration="533000" />
-      <workItem from="1553524706427" duration="88000" />
-      <workItem from="1553598304741" duration="5163000" />
-      <workItem from="1553756858581" duration="86000" />
-      <workItem from="1556096286183" duration="28000" />
-      <workItem from="1558960970225" duration="2125000" />
-      <workItem from="1558965749883" duration="63000" />
-      <workItem from="1559046840445" duration="2701000" />
-      <workItem from="1559225378745" duration="1356000" />
-      <workItem from="1560170590409" duration="1507000" />
-      <workItem from="1560173000259" duration="8000" />
-      <workItem from="1560259667313" duration="1229000" />
-      <workItem from="1560432550956" duration="6000" />
-      <workItem from="1560946482731" duration="2607000" />
-      <workItem from="1561038021465" duration="1776000" />
-      <workItem from="1561194393141" duration="17000" />
-      <workItem from="1561211230255" duration="1983000" />
-      <workItem from="1561293950195" duration="2234000" />
-      <workItem from="1561384151995" duration="1704000" />
-      <workItem from="1561386269914" duration="683000" />
-      <workItem from="1561466532623" duration="1661000" />
-      <workItem from="1561470209634" duration="6000" />
-      <workItem from="1561553392773" duration="2528000" />
-      <workItem from="1561639300548" duration="2121000" />
-      <workItem from="1561972129371" duration="1972000" />
-      <workItem from="1562336465617" duration="22000" />
-      <workItem from="1562766483316" duration="2660000" />
-      <workItem from="1562855428644" duration="1762000" />
-      <workItem from="1562940815207" duration="367000" />
-      <workItem from="1562941205393" duration="1079000" />
+      <updated>1563197151939</updated>
+      <workItem from="1563197153145" duration="3760000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdapterDemo_run - 2019.07.10 at 21h 54m 57s.xml">
-      <configuration name="AdapterDemo.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdapterDemo_run - 2019.07.10 at 21h 55m 26s.xml">
-      <configuration name="AdapterDemo.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdapterDemo_run - 2019.07.10 at 21h 55m 31s.xml">
-      <configuration name="AdapterDemo.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdapterDemo_run - 2019.07.10 at 21h 58m 46s.xml">
-      <configuration name="AdapterDemo.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDemo_run - 2019.07.10 at 21h 59m 12s.xml">
-      <configuration name="TestDemo.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BridgeDemo_run - 2019.07.10 at 22h 19m 50s.xml">
+    <history-entry file="BridgeDemo_run - 2019.07.15 at 21h 26m 22s.xml">
       <configuration name="BridgeDemo.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BridgeDemo_run - 2019.07.10 at 22h 20m 58s.xml">
-      <configuration name="BridgeDemo.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_run - 2019.07.11 at 22h 53m 38s.xml">
+    <history-entry file="Client_run - 2019.07.15 at 22h 18m 08s.xml">
       <configuration name="Client.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.11 at 22h 53m 59s.xml">
+    <history-entry file="Client_run - 2019.07.15 at 22h 18m 52s.xml">
       <configuration name="Client.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.12 at 22h 20m 35s.xml">
+    <history-entry file="Client_run - 2019.07.15 at 22h 20m 18s.xml">
+      <configuration name="Client.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client - 2019.07.15 at 22h 21m 33s.xml">
+      <configuration name="Client" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_run - 2019.07.15 at 22h 22m 38s.xml">
+      <configuration name="Client.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_run - 2019.07.15 at 22h 22m 48s.xml">
+      <configuration name="Client.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_run - 2019.07.15 at 22h 25m 43s.xml">
       <configuration name="Client.run" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40476000" />
+    <option name="totallyTimeSpent" value="3760000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19168901" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19121814" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MediatorPattern/Client.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MediatorPattern/Client.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/MideaTelevision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern.java" />
-    <entry file="file://$PROJECT_DIR$/src/FacadePattern/CPU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FacadePattern/Disk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FacadePattern/Memory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FacadePattern/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/GoShoppingState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/BrowseGoogsState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/PlaceOrderState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/DeliverGoodsState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/TransportGoodsState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/ReceiveGoodsState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern/StateDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MementoPattern/Memento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MementoPattern/MementoDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MementoPattern/Caretacker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MementoPattern/GamePlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CompositePattern/Leaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="3" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CompositePattern/Composite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="6" selection-start-line="6" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdapterPattern/Voltage220V.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdapterPattern/VoltageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CompositePattern/CompositeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CompositePattern/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdapterPattern/VoltageFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdapterPattern/AdapterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactoryPattern/AbstracTFactoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/Changer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FacadePattern/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/TypeN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/TypeP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/Automobile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/TypeM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/Yellow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BridgePattern/Blue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BridgePattern/BridgeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="396">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="132">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPattern/MakeChickenWingsCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Station.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="99">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPattern/MakeBurgerCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Pakistan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Waiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Kitchen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.13-beta-3.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="19" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/China.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/SquadLeader.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Counselor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsePattern/Dean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="201">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#190#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>designPattern</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
