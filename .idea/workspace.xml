@@ -12,80 +12,65 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Mediator.java">
+        <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/ChessPieces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/WhitePieces.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/BlackPieces.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java">
+        <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#181#190#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="113">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Station.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/China.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Pakistan.java">
+        <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/PiecesFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="6" selection-start-line="6" selection-end-line="26" selection-end-column="1" />
               <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#139#159#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,13 +96,20 @@
         <option value="$PROJECT_DIR$/src/MediatorPattern/Station.java" />
         <option value="$PROJECT_DIR$/src/MediatorPattern/Mediator.java" />
         <option value="$PROJECT_DIR$/src/MediatorPattern/Pakistan.java" />
-        <option value="$PROJECT_DIR$/src/MediatorPattern/China.java" />
         <option value="$PROJECT_DIR$/src/MediatorPattern/Client.java" />
         <option value="$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java" />
+        <option value="$PROJECT_DIR$/src/MediatorPattern/China.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/ChessPieces.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/Locaton.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/WhitePieces.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/BlackPieces.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/PiecesFactory.java" />
+        <option value="$PROJECT_DIR$/src/FlyweightPattern/Location.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="560" />
     <option name="width" value="715" />
     <option name="height" value="1040" />
@@ -127,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -145,12 +136,13 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MediatorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyweightPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,13 +166,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Client.run">
+  <component name="RunManager" selected="JUnit.Client.run (1)">
     <configuration name="BridgeDemo.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BridgeDemo" />
       <option name="METHOD_NAME" value="run" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlyweightPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlyweightPattern" />
+      <option name="MAIN_CLASS_NAME" value="FlyweightPattern.Client" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,6 +203,22 @@
       <option name="PACKAGE_NAME" value="MediatorPattern" />
       <option name="MAIN_CLASS_NAME" value="MediatorPattern.Client" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlyweightPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FlyweightPattern" />
+      <option name="MAIN_CLASS_NAME" value="FlyweightPattern.Client" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,6 +241,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Client.run (1)" />
+        <item itemvalue="JUnit.Client (1)" />
         <item itemvalue="JUnit.Client.run" />
         <item itemvalue="JUnit.Client" />
         <item itemvalue="JUnit.BridgeDemo.run" />
@@ -234,90 +259,107 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563197151939</updated>
-      <workItem from="1563197153145" duration="3760000" />
+      <workItem from="1563197153145" duration="4229000" />
+      <workItem from="1563201531466" duration="25000" />
+      <workItem from="1563364860912" duration="4065000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BridgeDemo_run - 2019.07.15 at 21h 26m 22s.xml">
-      <configuration name="BridgeDemo.run" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 49m 04s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.15 at 22h 18m 08s.xml">
-      <configuration name="Client.run" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 49m 31s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.15 at 22h 18m 52s.xml">
-      <configuration name="Client.run" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 50m 44s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.15 at 22h 20m 18s.xml">
-      <configuration name="Client.run" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 51m 35s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client - 2019.07.15 at 22h 21m 33s.xml">
-      <configuration name="Client" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 52m 51s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.15 at 22h 22m 38s.xml">
-      <configuration name="Client.run" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 53m 35s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.15 at 22h 22m 48s.xml">
-      <configuration name="Client.run" configurationId="JUnit" />
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 55m 14s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Client_run - 2019.07.15 at 22h 25m 43s.xml">
-      <configuration name="Client.run" configurationId="JUnit" />
+    <history-entry file="Client_(1) - 2019.07.17 at 20h 56m 08s.xml">
+      <configuration name="Client (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_(1) - 2019.07.17 at 20h 56m 32s.xml">
+      <configuration name="Client (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Client_run_(1) - 2019.07.17 at 20h 57m 45s.xml">
+      <configuration name="Client.run (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3760000" />
+    <option name="totallyTimeSpent" value="8319000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MediatorPattern/Client.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MediatorPattern/Client.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/BridgePattern/BridgeDemo.java">
@@ -327,51 +369,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.13-beta-3.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <caret line="5" selection-start-line="5" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Station.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Pakistan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.13-beta-3.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MediatorPattern/China.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="132">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
             <element signature="e#333#334#0" expanded="true" />
             <element signature="e#354#355#0" expanded="true" />
@@ -379,16 +418,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/ConcreteMediator.java">
+    <entry file="file://$PROJECT_DIR$/src/MediatorPattern/Pakistan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state relative-caret-position="396">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/ChessPieces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/WhitePieces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/BlackPieces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/PiecesFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" selection-start-line="6" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#181#190#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#139#159#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="22" />
         </state>
       </provider>
     </entry>
